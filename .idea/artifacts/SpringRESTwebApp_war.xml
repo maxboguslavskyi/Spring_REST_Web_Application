@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringRESTwebApp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SpringRESTwebApp.war">
+      <element id="artifact" artifact-name="SpringRESTwebApp:war exploded" />
+    </root>
+  </artifact>
+</component>
